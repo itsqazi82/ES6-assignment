@@ -1,0 +1,1 @@
+A project demonstrating the use of ES6 features such as arrow functions, template literals, classes, destructuring, promises, and modules. It highlights modern JavaScript coding practices for cleaner, efficient, and more readable code while showcasing real-world use of ES6 syntax and functionality.
